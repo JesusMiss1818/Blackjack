@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(3, 102, 3);
+}
+
+img{
+    height: 300px;
+    width: 200px;
+    margin-left: -150px;
+    position: relative;
+    left: 160px;
+}
+
+#jugador,
+#computadora{
+    min-height: 400px;
+}
